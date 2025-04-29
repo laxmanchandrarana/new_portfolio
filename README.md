@@ -1,3 +1,3 @@
 # RanaLaxman portfolio
 
-# [https://RanaLaxman.github.io/RanaLaxman-portfolio/]
+# [https://laxmanchandrarana.github.io/new_portfolio/]
